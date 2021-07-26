@@ -5,11 +5,12 @@
     "qqGroupTitle": "点击加入QQ群进行交流反馈、优先体验",
     "dialogTitle": "提示标题",
     "dialogIntro": "提示内容",
-    "dialogShow": false,
+    "dialogShow": true,
     "dialogTime": 5,
     "dialogExit": true,
     "updateInfo": {
         "u": true,
+        "f": true,
         "vn": "1.3.7",
         "vc": 82,
         "du": "https://gitee.com/tpnet/SinaHelperData/raw/master/release/%E5%BE%AE%E5%8D%9A%E7%8C%AA%E6%89%8B-1.3.7(81-20210721)-%E6%9C%80%E4%BD%B3%E9%80%82%E9%85%8D11.7.2.apk",
