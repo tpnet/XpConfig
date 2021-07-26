@@ -5,9 +5,9 @@
     "qqGroupTitle": "点击加入QQ群进行交流反馈、优先体验",
     "dialogTitle": "提示标题",
     "dialogIntro": "提示内容",
-    "dialogShow": true,
+    "dialogShow": false,
     "dialogTime": 5,
-    "dialogExit": true,
+    "dialogExit": false,
     "updateInfo": {
         "u": true,
         "f": true,
