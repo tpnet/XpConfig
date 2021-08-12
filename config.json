@@ -3,6 +3,7 @@
     "alipays": "alipays://platformapi/startapp?saId=10000007&qrcode=https://qr.alipay.com/aex00733fo8pe2wengwll19",
     "qqGroupKey": "Zcw77JlwAqts-yehCjpA_Bm6aTzcIVov",
     "qqGroupTitle": "点击加入QQ群进行交流反馈、优先体验",
+    "adaptTitle": "适配国内正常版本11.7.1到11.8.2",
     "dialogTitle": "提示标题",
     "dialogIntro": "提示内容",
     "dialogShow": false,
