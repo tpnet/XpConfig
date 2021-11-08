@@ -5,11 +5,12 @@
     "intro": "提示内容",
     "exit": false,
     "show": true,
+    "f": true,
     "url": "",
     "time": 5,
     "v": 1
   },
-  "mainTip": "",
+  "mainTip": "如果出现发现页没有热搜、我的页面空白等等异常情况，请检查是否模块冲突<br>",
   "update": {
     "u": true,
     "f": false,
