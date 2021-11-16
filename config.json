@@ -1,1 +1,48 @@
-{"c":true,"alipays":"alipays://platformapi/startapp?saId\u003d10000007\u0026qrcode\u003dhttps://qr.alipay.com/aex00733fo8pe2wengwll19","qqGroupKey":"gD1KzakNOoQn1BhRGJKBMZFF-iHc9CU5","qqGroupTitle":"点击加入QQ群进行交流反馈、优先体验","minAdapt":"11.7.1","maxAdapt":"11.11.0","dialogTitle":"提示标题","dialogIntro":"提示内容","dialogShow":false,"dialogExit":false,"dialogTime":5,"updateInfo":{"u":true,"f":false,"vn":"1.5.0","vc":94,"du":"https://skyhand.lanzoui.com/b03bwjayf","dt":"密码:wbzs","title":"微博猪手1.5.0更新啦！！！","intro":"1.5.0正式版更新啦:\n\n对比1.4.7更新记录:\n1. 新增 LivePhoto播放时候底部增加提示\n2. 新增 去除博文详情页的投票\n3. 新增 去除信息流下拉广告(设置在信息流广告)\n4. 新增 全屏流视频禁止播放完毕自动下一条\n5. 修复11.9.1/2版本微博自动签到失效\n6. 修复 部分用户的微博设置可能没有猪手的入口\n7. 修复 我的页面右上角vip提示可能没去掉\n8. 修复 博主主页优化可能失效\n9. 优化 去除发现页信息流里的热议话题\n10. 优化 博主主页可以不去除赞过的微博\n11. 优化 首页信息流第一条广告有可能没去掉\n\n备注1：如果出现功能异常(例如发现页没有热搜、我的页面空白了 等等)的情况，请检查是否有装其它跟有关微博的模块，导致模块冲突了。\n备注2：太极需要若干分钟去审核","time":5},"beta":{"c":true,"alipays":"alipays://platformapi/startapp?saId\u003d10000007\u0026qrcode\u003dhttps://qr.alipay.com/aex00733fo8pe2wengwll19","qqGroupKey":"gD1KzakNOoQn1BhRGJKBMZFF-iHc9CU5","qqGroupTitle":"点击加入QQ群进行交流反馈、优先体验","minAdapt":"11.7.1","maxAdapt":"11.11.0","dialogTitle":"提示标题","dialogIntro":"提示内容","dialogShow":false,"dialogExit":false,"dialogTime":5,"updateInfo":{"u":true,"f":false,"vn":"1.5.0","vc":94,"du":"https://skyhand.lanzoui.com/b03bwjayf","dt":"密码:wbzs","title":"微博猪手1.5.0更新啦！！！","intro":"1.5.0正式版更新啦:\n\n对比1.4.7更新记录:\n1. 新增 LivePhoto播放时候底部增加提示\n2. 新增 去除博文详情页的投票\n3. 新增 去除信息流下拉广告(设置在信息流广告)\n4. 新增 全屏流视频禁止播放完毕自动下一条\n5. 修复11.9.1/2版本微博自动签到失效\n6. 修复 部分用户的微博设置可能没有猪手的入口\n7. 修复 我的页面右上角vip提示可能没去掉\n8. 修复 博主主页优化可能失效\n9. 优化 去除发现页信息流里的热议话题\n10. 优化 博主主页可以不去除赞过的微博\n11. 优化 首页信息流第一条广告有可能没去掉\n\n备注1：如果出现功能异常(例如发现页没有热搜、我的页面空白了 等等)的情况，请检查是否有装其它跟有关微博的模块，导致模块冲突了。\n备注2：太极需要若干分钟去审核","time":5}}}
+{
+  "c": true,
+  "alipays": "alipays://platformapi/startapp?saId\u003d10000007\u0026qrcode\u003dhttps://qr.alipay.com/aex00733fo8pe2wengwll19",
+  "qqGroupKey": "gD1KzakNOoQn1BhRGJKBMZFF-iHc9CU5",
+  "qqGroupTitle": "点击加入QQ群进行交流反馈、优先体验",
+  "minAdapt": "11.7.1",
+  "maxAdapt": "11.11.0",
+  "dialogTitle": "通知",
+  "dialogIntro": "全新版本2.0.0即将发布，届时旧版预计会在12月前停用，敬请期待~\n\n2.0新版猪手的配置修改到微博设置里面，这个修改可以优化以下问题：\\n1  更好地支持多开\\n2 不会出现获取配置失败的情况\\n3 支持XPatch、LSPatch等工具打包为内置模块\\n4 华为手机重启之后不会重置配置\\n5 支持使用\"隐藏应用列表\"隐藏掉猪手\\n\\n新版功能对比1.5.0更新记录:\\n新增 聊天消息防撤回\\n新增 视频流长按/双击更多清屏\\n新增 博文详情页增加去除打赏作者\\n新增 支持Play版本\\n优化 去除评论列表底部的推广信息\\n优化 位置模拟可以直接在地图上选取位置\\n优化 机型修改、自定义位置、屏蔽功能为即时免重启生效\\n优化 批量超话签到的时间间隔为随机5~10秒\\n优化 一个可能卡死的问题\\n优化 自动签到可能失效\\n优化 发现页去除信息流内容异常\\n优化 最低支持api21-Android5.0\\n修复 发现页的本地信息流位置模拟不了\\n修复 用户主页右上角屏蔽用户消失了\\n修复 过滤内容里面有特殊符号会导致崩溃",
+  "dialogShow": true,
+  "dialogExit": false,
+  "dialogTime": 3,
+  "updateInfo": {
+    "u": true,
+    "f": false,
+    "vn": "1.5.0",
+    "vc": 94,
+    "du": "https://skyhand.lanzoui.com/b03bwjayf",
+    "dt": "密码:wbzs",
+    "title": "微博猪手1.5.0更新啦！！！",
+    "intro": "1.5.0正式版更新啦:\n\n对比1.4.7更新记录:\n1. 新增 LivePhoto播放时候底部增加提示\n2. 新增 去除博文详情页的投票\n3. 新增 去除信息流下拉广告(设置在信息流广告)\n4. 新增 全屏流视频禁止播放完毕自动下一条\n5. 修复11.9.1/2版本微博自动签到失效\n6. 修复 部分用户的微博设置可能没有猪手的入口\n7. 修复 我的页面右上角vip提示可能没去掉\n8. 修复 博主主页优化可能失效\n9. 优化 去除发现页信息流里的热议话题\n10. 优化 博主主页可以不去除赞过的微博\n11. 优化 首页信息流第一条广告有可能没去掉\n\n备注1：如果出现功能异常(例如发现页没有热搜、我的页面空白了 等等)的情况，请检查是否有装其它跟有关微博的模块，导致模块冲突了。\n备注2：太极需要若干分钟去审核",
+    "time": 5
+  },
+  "beta": {
+    "c": true,
+    "alipays": "alipays://platformapi/startapp?saId\u003d10000007\u0026qrcode\u003dhttps://qr.alipay.com/aex00733fo8pe2wengwll19",
+    "qqGroupKey": "gD1KzakNOoQn1BhRGJKBMZFF-iHc9CU5",
+    "qqGroupTitle": "点击加入QQ群进行交流反馈、优先体验",
+    "minAdapt": "11.7.1",
+    "maxAdapt": "11.11.0",
+    "dialogTitle": "提示标题",
+    "dialogIntro": "提示内容",
+    "dialogShow": false,
+    "dialogExit": false,
+    "dialogTime": 5,
+    "updateInfo": {
+      "u": true,
+      "f": false,
+      "vn": "1.5.0",
+      "vc": 94,
+      "du": "https://skyhand.lanzoui.com/b03bwjayf",
+      "dt": "密码:wbzs",
+      "title": "微博猪手1.5.0更新啦！！！",
+      "intro": "1.5.0正式版更新啦:\n\n对比1.4.7更新记录:\n1. 新增 LivePhoto播放时候底部增加提示\n2. 新增 去除博文详情页的投票\n3. 新增 去除信息流下拉广告(设置在信息流广告)\n4. 新增 全屏流视频禁止播放完毕自动下一条\n5. 修复11.9.1/2版本微博自动签到失效\n6. 修复 部分用户的微博设置可能没有猪手的入口\n7. 修复 我的页面右上角vip提示可能没去掉\n8. 修复 博主主页优化可能失效\n9. 优化 去除发现页信息流里的热议话题\n10. 优化 博主主页可以不去除赞过的微博\n11. 优化 首页信息流第一条广告有可能没去掉\n\n备注1：如果出现功能异常(例如发现页没有热搜、我的页面空白了 等等)的情况，请检查是否有装其它跟有关微博的模块，导致模块冲突了。\n备注2：太极需要若干分钟去审核",
+      "time": 5
+    }
+  }
+}
