@@ -1,0 +1,33 @@
+{
+  "notice": {
+    "alway": false,
+    "title": "提示标题",
+    "intro":"",
+    "exit": false,
+    "show": false,
+    "f": true,
+    "url": "",
+    "time": 5,
+    "v": 3
+  },
+  "conf": {
+    "downUrl": "https://skyhand.lanzoui.com/b03bwjayf/",
+    "downToast": "密码:wbzs",
+    "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
+    "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
+    "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
+    "mainTip": "如果出现发现页没有热搜、我的页面空白等等异常情况，请检查是否模块冲突<br>"
+  },
+  "appText": "",
+  "update": {
+    "u": true,
+    "f": false,
+    "vn": "2.0.0",
+    "vc": 95,
+    "du": "https://skyhand.lanzoui.com/b03bwjayf",
+    "dt": "密码:wbzs",
+    "title": "",
+    "intro": "",
+    "time": 5
+  }
+}
