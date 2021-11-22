@@ -1,18 +1,18 @@
 {
   "notice": {
     "alway": false,
-    "title": "提示标题",
-    "intro":"",
+    "title": "重要通知！(只提示一次)",
+    "intro":"2.0大版本重要改动，必看！！！<br><br>普通用户无条件使用净化去广告功能。<br><br>但为了保证可持续发展，把之前的高级功能挪到了福利功能，福利功能使用卡密方式打赏之后永久回赠，通过账号绑定。<br>（以前有打赏过的，请联系QQ:2269721300发送支付宝订单截图获取等额的优惠券，非常感谢打赏过的朋友）<br><br>如果只是为了去广告的话，不需要打赏，感谢大家一直以来的支持~",
     "exit": false,
-    "show": false,
+    "show": true,
     "f": true,
     "url": "",
     "time": 5,
-    "v": 3
+    "v": 1
   },
   "conf": {
-    "downUrl": "https://skyhand.lanzoui.com/b03bwjayf/",
-    "downToast": "密码:wbzs",
+    "downUrl": "https://skyhand.lanzoui.com/is6o6wsguri",
+    "downToast": "密码:hrt2",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
@@ -20,14 +20,12 @@
   },
   "appText": "",
   "update": {
-    "u": true,
     "f": false,
-    "vn": "2.0.0",
-    "vc": 95,
-    "du": "https://skyhand.lanzoui.com/b03bwjayf",
-    "dt": "密码:wbzs",
-    "title": "",
-    "intro": "",
+    "vn": "2.0.2",
+    "vc": 97,
+    "du": "https://skyhand.lanzoui.com/is6o6wsguri",
+    "dt": "密码:hrt2",
+    "intro": "微博猪手2.0.1更新啦！！！<br><br>对比2.0.0更新记录：<br>1. 修复 阻止撤回消息之后不能发送消息<br>2. 修复 Play版打赏跳转不了卡密<br>3. 修复 多选时候点击文字没有切换勾选状态<br>4. 修复 热搜的博文评论广告有可能去除不了<br>5. 优化 鸿蒙系统的应用转生的兼容<br>6. 优化 增大多选框的点击范围<br>7. 优化 模块设置界面的主颜色<br>8. 优化XPatch内置兼容",
     "time": 5
   }
 }
