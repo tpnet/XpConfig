@@ -12,7 +12,7 @@
   "dialogTime": 3,
   "updateInfo": {
     "u": true,
-    "f": true,
+    "f": false,
     "vn": "2.0.2",
     "vc": 97,
     "du": "https://skyhand.lanzoui.com/is6o6wsguri",
@@ -35,7 +35,7 @@
     "dialogTime": 5,
     "updateInfo": {
       "u": true,
-      "f": true,
+      "f": false,
       "vn": "2.0.2",
       "vc": 97,
       "du": "https://skyhand.lanzoui.com/is6o6wsguri",
