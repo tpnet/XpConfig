@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "key": "iPhone",
+      "list": [
+        {
+          "name": "iPhone13 Pro Max",
+          "model": "iPhone14,3"
+        },
+        {
+          "name": "iPhone13 Pro",
+          "model": "iPhone14,2"
+        }
+      ]
+    },
+    {
+      "key": "小米",
+      "list": [
+        {
+          "name": "Mix4",
+          "model": "Xiaomi-MIX 4"
+        },
+        {
+          "name": "11 Ultra",
+          "model": "Xiaomi-Mi 11 Ultra"
+        }
+      ]
+    },
+    {
+      "key": "华为",
+      "list": [
+        {
+          "name": "P50 Pro",
+          "model": "HUAWEI-JAD-AL50"
+        },
+        {
+          "name": "Mate40保时捷版",
+          "model": "HUAWEI-NOP-AN00-PD"
+        }
+      ]
+    },
+    {
+      "key": "一加",
+      "list": [
+        {
+          "name": "9Pro|哈苏影像",
+          "model": "OnePlus-LE2120"
+        },
+        {
+          "name": "一加9|哈苏影像",
+          "model": "OnePlus-LE2117"
+        }
+      ]
+    },
+    {
+      "key": "其它",
+      "list": [
+        {
+          "name": "魅族17 Pro",
+          "model": "meizu-17 Pro"
+        },
+        {
+          "name": "魅族16s Pro",
+          "model": "meizu-16s Pro"
+        },
+        {
+          "name": "三星S21 Ultra",
+          "model": "samsung-SM-G9980"
+        }
+      ]
+    }
+  ]
+}
