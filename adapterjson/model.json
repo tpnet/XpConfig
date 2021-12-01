@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "key": "iPhone",
+      "key": "苹果",
       "list": [
         {
           "name": "iPhone13 Pro Max",
@@ -10,6 +10,50 @@
         {
           "name": "iPhone13 Pro",
           "model": "iPhone14,2"
+        },
+        {
+          "name": "iPhone13",
+          "model": "iPhone14,5"
+        },
+        {
+          "name": "iPhone13 mini",
+          "model": "iPhone14,4"
+        },
+        {
+          "name": "iPad Pro",
+          "model": "iPad8,11"
+        },
+        {
+          "name": "iPad",
+          "model": "iPad7,12"
+        },
+        {
+          "name": "iPad Air",
+          "model": "iPad11,3"
+        },
+        {
+          "name": "iPad mini",
+          "model": "iPad11,1"
+        },
+        {
+          "name": "iPhone12 Pro Max",
+          "model": "iPhone13,4"
+        },
+        {
+          "name": "iPhone12 Pro",
+          "model": "iPhone13,3"
+        },
+        {
+          "name": "iPhone12",
+          "model": "iPhone13,2"
+        },
+        {
+          "name": "iPhone12 mini",
+          "model": "iPhone13,1"
+        },
+        {
+          "name": "iPhoneXS Max",
+          "model": "iPhone11,6"
         }
       ]
     },
@@ -17,12 +61,44 @@
       "key": "小米",
       "list": [
         {
-          "name": "Mix4",
+          "name": "小米Mix4",
           "model": "Xiaomi-MIX 4"
         },
         {
-          "name": "11 Ultra",
+          "name": "小米11 Ultra",
           "model": "Xiaomi-Mi 11 Ultra"
+        },
+        {
+          "name": "小米11 Pro",
+          "model": "Xiaomi-Mi 11 Pro"
+        },
+        {
+          "name": "小米8 透明探索版",
+          "model": "Xiaomi-M2102K1C"
+        },
+        {
+          "name": "小米MIX Alpha",
+          "model": "Xiaomi-MIX Alpha"
+        },
+        {
+          "name": "小米MIX FOLD",
+          "model": "Xiaomi-MIX FOLD"
+        },
+        {
+          "name": "小米Civi",
+          "model": "Xiaomi-Xiaomi Civi"
+        },
+        {
+          "name": "小米Mix2s",
+          "model": "Xiaomi-MIX 2S"
+        },
+        {
+          "name": "红米K40Pro",
+          "model": "Xiaomi-Redmi K40 Pro"
+        },
+        {
+          "name": "红米K20 Pro尊享版",
+          "model": "Xiaomi-Redmi K20 Pro Premium Edition"
         }
       ]
     },
@@ -30,12 +106,32 @@
       "key": "华为",
       "list": [
         {
-          "name": "P50 Pro",
+          "name": "华为P50 Pro",
           "model": "HUAWEI-JAD-AL50"
         },
         {
-          "name": "Mate40保时捷版",
+          "name": "华为Mate40保时捷版",
           "model": "HUAWEI-NOP-AN00-PD"
+        },
+        {
+          "name": "华为Mate40 Pro+",
+          "model": "HUAWEI-NOP-AN00"
+        },
+        {
+          "name": "华为P40",
+          "model": "HUAWEI-ANA-AL00"
+        },
+        {
+          "name": "华为Mate40保时捷版",
+          "model": "HUAWEI-NOP-AN00-PD"
+        },
+        {
+          "name": "华为Mate RS 保时捷版",
+          "model": "HUAWEI-NEO-AL00"
+        },
+        {
+          "name": "荣耀Magic 2",
+          "model": "HUAWEI-TNY-AL00"
         }
       ]
     },
@@ -43,12 +139,20 @@
       "key": "一加",
       "list": [
         {
-          "name": "9Pro|哈苏影像",
+          "name": "一加9Pro 哈苏影像",
           "model": "OnePlus-LE2120"
         },
         {
-          "name": "一加9|哈苏影像",
+          "name": "一加9 哈苏影像",
           "model": "OnePlus-LE2117"
+        },
+        {
+          "name": "一加8 Pro",
+          "model": "OnePlus-IN2020"
+        },
+        {
+          "name": "一加7T Pro",
+          "model": "OnePlus-HD1910"
         }
       ]
     },
@@ -66,6 +170,34 @@
         {
           "name": "三星S21 Ultra",
           "model": "samsung-SM-G9980"
+        },
+        {
+          "name": "三星Note20 Ultra",
+          "model": "samsung-SM-N9860"
+        },
+        {
+          "name": "三星S20 Plus",
+          "model": "samsung-SM-G9860"
+        },
+        {
+          "name": "三星s10",
+          "model": "samsung-SM-G977N"
+        },,
+        {
+          "name": "摩托罗拉 edge s",
+          "model": "motorola-XT2125-4"
+        },
+        {
+          "name": "真我GT Neo 闪速版",
+          "model": "realme-RMX3350"
+        },
+        {
+          "name": "坚果R2",
+          "model": "deltainno-DT2002C"
+        },
+        {
+          "name": "vivo X60Pro+ 蔡司影像",
+          "model": "vivo-V2056A"
         }
       ]
     }
