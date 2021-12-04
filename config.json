@@ -6,7 +6,7 @@
   "minAdapt": "11.7.1",
   "maxAdapt": "11.11.0",
   "dialogTitle": "通知！！！",
-  "dialogIntro": "全新版本2.0.0已发布，旧版已停用，新版超多改动绝对不会让你失望！！！点击确定后从下一个界面获取更新~",
+  "dialogIntro": "全新版本2.0.0已发布，旧版已停用，新版超多改动绝对不会让你失望！！！\n请点击 模块设置主界面下面的版本 跳转下载~",
   "dialogShow": true,
   "dialogExit": false,
   "dialogTime": 3,
