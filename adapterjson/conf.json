@@ -11,8 +11,8 @@
     "v": 1
   },
   "conf": {
-    "downUrl": "https://skyhand.lanzoup.com/iMzDvxw722b",
-    "downToast": "密码:gv51",
+    "downUrl": "https://skyhand.lanzoup.com/itJ2cz36k2b",
+    "downToast": "密码:hkv5",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
@@ -23,11 +23,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.0.5",
-    "vc": 100,
-    "du": "https://skyhand.lanzoup.com/iMzDvxw722b",
-    "dt": "密码:gv51",
-    "intro": "对比2.0.4更新记录：<br>新增 全屏流视频管理(全屏视频广告、店铺标题、商品浮窗、关注按钮、底部榜单/合集Banner、评论框)<br>新增 打开博主页的时候固定显示微博Tab(其它设置)<br>新增 去除视频号的关注Tab里面未关注的视频(净化设置)<br>新增 不再提示更新的开关(模块设置)<br>新增 我的页面可去除'创作者中心'<br>修复 后台一段时间再打开会出现开屏广告<br>修复 快速打开关闭评论出现报错的bug<br>优化 保存视频可能失败的情况<br>优化 热搜类别过滤增加'音乐'<br>优化 屏蔽词设置弹窗增加按钮插入|<br>优化 低端机对应用转生的适配<br>优化 部分UI",
+    "vn": "2.0.7",
+    "vc": 102,
+    "du": "https://skyhand.lanzoup.com/itJ2cz36k2b",
+    "dt": "密码:hkv5",
+    "intro": "对比2.0.6更新记录:<br>1. 新增 分享单张图片(加强功能)<br>2. 新增 保存视频可以选择分辨率(最高4k)<br>3. 新增 去除从消息-动态进去热门微博的广告<br>4. 修复 首页视频号tab可能去不掉<br>5. 修复 关注页信息流可能变空<br>6. 优化 超话自动签到支持100个以下<br>7. 增加 备用TG群入口<br>8. 其它 UI和细节优化",
     "time": 0
   }
 }
