@@ -1,14 +1,14 @@
 {
   "notice": {
     "alway": false,
-    "title": "重要通知！(只提示一次)",
-    "intro":"2.x大版本重要改动，必看！！！<br><br>无条件使用净化去广告功能。<br><br>为了保证可持续发展~~~，把之前的部分功能挪到了福利功能，福利功能使用卡密方式打赏之后永久回赠(账号绑定)<br>(以前有打赏过的可以联系QQ:2269721300发送截图获取等额优惠券~)<br><br>如果只是为了去广告的话，不打赏也行的~感谢大家的支持~",
+    "title": "新年活动！(只提示一次)",
+    "intro":"大家新年快乐，来个新年小活动 85折优惠券YQPk0RXWE4Ode8bC <a href='copy:YQPk0RXWE4Ode8bC'>点我复制</a>",
     "exit": false,
     "show": true,
     "f": true,
     "url": "",
-    "time": 5,
-    "v": 1
+    "time": 2,
+    "v": 2
   },
   "conf": {
     "showReward": true,
@@ -21,7 +21,7 @@
     "mainTip": "请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~\n",
     "rewardTip": "",
     "oldTip": "如果发现什么bug,请先更新模块到最新版本~",
-    "normalTip": ""
+    "normalTip": "新年小活动 85折优惠券YQPk0RXWE4Ode8bC<a href='copy:YQPk0RXWE4Ode8bC'>点我复制</a>"
   },
   "appText": "",
   "update": {
