@@ -11,8 +11,8 @@
     "v": 1
   },
   "conf": {
-    "downUrl": "https://skyhand.lanzoup.com/itJ2cz36k2b",
-    "downToast": "密码:hkv5",
+    "downUrl": "https://skyhand.lanzoup.com/irOZZzvydng",
+    "downToast": "密码:5o8f",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
@@ -23,11 +23,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.0.7",
-    "vc": 102,
-    "du": "https://skyhand.lanzoup.com/itJ2cz36k2b",
-    "dt": "密码:hkv5",
-    "intro": "对比2.0.6更新记录:<br>1. 新增 分享单张图片(加强功能)<br>2. 新增 保存视频可以选择分辨率(最高4k)<br>3. 新增 去除从消息-动态进去热门微博的广告<br>4. 修复 首页视频号tab可能去不掉<br>5. 修复 关注页信息流可能变空<br>6. 优化 超话自动签到支持100个以下<br>7. 增加 备用TG群入口<br>8. 其它 UI和细节优化",
+    "vn": "2.0.8",
+    "vc": 103,
+    "du": "https://skyhand.lanzoup.com/irOZZzvydng",
+    "dt": "密码:5o8f",
+    "intro": "对比2.0.7更新记录：<br>新增 免关注博主看Ta关注的人<br>新增 单图分享支持gif<br>新增 发现页可去除实时讨论<br>新增 视频可以单独下载音频(选分辨率时选音频)<br>优化 单图分享不在相册拉屎<br>修复 多分辨率下载视频没有声音<br>修复 类原生OneUI等部分系统超话签到功能失效<br>其他特殊情况优化",
     "time": 0
   }
 }
