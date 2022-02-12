@@ -1,24 +1,24 @@
 {
   "notice": {
     "alway": false,
-    "title": "重要通知！(只提示一次)",
-    "intro":"2.x大版本重要改动，必看！！！<br><br>无条件使用净化去广告功能。<br><br>为了保证可持续发展~~~，把之前的部分功能挪到了福利功能，福利功能使用卡密方式打赏之后永久回赠(账号绑定)<br>(以前有打赏过的可以联系QQ:2269721300发送截图获取等额优惠券~)<br><br>如果只是为了去广告的话，不打赏也行的~感谢大家的支持~",
+    "title": "新年活动！(只提示一次)",
+    "intro":"大家新年快乐，来个新年小活动 85折优惠券YQPk0RXWE4Ode8bC <a href='copy:YQPk0RXWE4Ode8bC'>点我复制</a>",
     "exit": false,
-    "show": true,
+    "show": false,
     "f": true,
     "url": "",
-    "time": 5,
-    "v": 1
+    "time": 2,
+    "v": 2
   },
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzoup.com/i74riyiedkj",
-    "downToast": "密码:e5e9",
+    "downUrl": "https://skyhand.lanzoup.com/irOZZzvydng",
+    "downToast": "密码:5o8f",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
-    "mainTip": "请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~\n",
+    "mainTip": "请关注公众 号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
     "rewardTip": "",
     "oldTip": "如果发现什么bug,请先更新模块到最新版本~",
     "normalTip": ""
@@ -26,11 +26,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.0.6",
-    "vc": 101,
-    "du": "https://skyhand.lanzoup.com/i74riyiedkj",
-    "dt": "密码:e5e9",
-    "intro": "对比2.0.5更新记录:<br>新增 快捷删除我的微博(其它设置)<br>新增 模拟位置增加根据地址搜索<br>新增 我的页面可去除 让红包飞<br>修复 微博故事的视频保存到相册失败<br>修复 屏蔽词过长情况下按钮被顶下去不见了<br>修复 我的页面的推荐可能净化不了<br>优化 全屏流视频去除评论框情况下把进度条上移（可拖动快进）<br>优化 全屏流视频管理增加去除投票",
+    "vn": "2.0.8",
+    "vc": 103,
+    "du": "https://skyhand.lanzoup.com/irOZZzvydng",
+    "dt": "密码:5o8f",
+    "intro": "对比2.0.7更新记录：<br>新增 免关注博主看Ta关注的人<br>新增 单图分享支持gif<br>新增 发现页可去除实时讨论<br>新增 视频可以单独下载音频(选分辨率时选音频)<br>优化 单图分享不在相册拉屎<br>修复 多分辨率下载视频没有声音<br>修复 类原生OneUI等部分系统超话签到功能失效<br>其他特殊情况优化",
     "time": 0
   }
 }
