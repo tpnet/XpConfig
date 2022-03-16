@@ -13,14 +13,14 @@
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzoup.com/irOZZzvydng",
-    "downToast": "密码:5o8f",
+    "downUrl": "https://skyhand.lanzouf.com/iyCAg01hwjje",
+    "downToast": "密码:da9k",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
     "rewardUrl": "https://www.kami.vip/purchasing?link=4J8E34",
     "checkUrl": "https://www.kami.vip/order_sel",
-    "mainTip": "请关注公众 号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
+    "mainTip": "请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
     "rewardTip": "",
     "oldTip": "如果发现什么bug,请先更新模块到最新版本~",
     "normalTip": ""
@@ -28,11 +28,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.0.8",
-    "vc": 103,
-    "du": "https://skyhand.lanzoup.com/irOZZzvydng",
-    "dt": "密码:5o8f",
-    "intro": "对比2.0.7更新记录：<br>新增 免关注博主看Ta关注的人<br>新增 单图分享支持gif<br>新增 发现页可去除实时讨论<br>新增 视频可以单独下载音频(选分辨率时选音频)<br>优化 单图分享不在相册拉屎<br>修复 多分辨率下载视频没有声音<br>修复 类原生OneUI等部分系统超话签到功能失效<br>其他特殊情况优化",
+    "vn": "2.0.9",
+    "vc": 104,
+    "du": "https://skyhand.lanzouf.com/iyCAg01hwjje",
+    "dt": "密码:da9k",
+    "intro": "<br>对比2.0.8更新记录：<br>1. 新增 首页默认发现页(其它设置)<br>2. 优化 发现页横向卡片具体净化配置<br>3. 适配 新样式头部Tab的发现页<br>4. 优化 导出配置记忆路径<br>5. 优化 导入配置智能填入路径<br>6. 修复 评论过滤可能失灵<br>7. 修复 可能导致评论为空<br>8. 更新卡密地址(解决部分地区打不开)",
     "time": 0
   }
 }
