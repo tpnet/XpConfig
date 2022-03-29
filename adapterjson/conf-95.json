@@ -13,12 +13,12 @@
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzouf.com/iyCAg01hwjje",
-    "downToast": "密码:da9k",
+    "downUrl": "https://skyhand.lanzouf.com/iAOnn0288g0f",
+    "downToast": "密码:bam1",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
-    "qqGroup": "yWuB4CooGoZRf9qvYTpJ1m2Q-ofnPuC7",
+    "qqGroup": "sMzjwYJ2Gpm0XrQuDZ1iSrHxPNr7FJp9",
     "rewardUrl": "https://www.kami.vip/purchasing?link=4J8E34",
     "checkUrl": "https://www.kami.vip/order_sel",
     "mainTip": "请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
@@ -29,11 +29,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.0.9",
+    "vn": "2.1.0",
     "vc": 104,
-    "du": "https://skyhand.lanzouf.com/iyCAg01hwjje",
-    "dt": "密码:da9k",
-    "intro": "<br>对比2.0.8更新记录：<br>1. 新增 首页默认发现页(其它设置)<br>2. 优化 发现页横向卡片具体净化配置<br>3. 适配 新样式头部Tab的发现页<br>4. 优化 导出配置记忆路径<br>5. 优化 导入配置智能填入路径<br>6. 修复 评论过滤可能失灵<br>7. 修复 可能导致评论为空<br>8. 更新卡密地址(解决部分地区打不开)",
+    "du": "https://skyhand.lanzouf.com/iAOnn0288g0f",
+    "dt": "密码:bam1",
+    "intro": "<br>对比2.0.9更新记录:<br>1. 优化 LivePhoto增加内置内核，优化播放兼容性、加载速度、播放缓存，修正部分旋转了90度。<br>2. 新增 首页可以自定义默认分类(其它设置)<br>3. 优化 图片水印设置改为弹窗式直接选择<br>4. 修复 Play版导入配置时可能会闪退<br>5. 优化 新版博主页信息流可能有广告<br>6. 优化 新版亮度调节滑块的位置<br>7. 修复 获取机型失败<br>8. 优化 部分提示",
     "time": 0
   }
 }
