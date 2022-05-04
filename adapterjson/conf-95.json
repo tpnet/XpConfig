@@ -13,8 +13,8 @@
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzouf.com/iAOnn0288g0f",
-    "downToast": "密码:bam1",
+    "downUrl": "https://skyhand.lanzouf.com/iblb90423eqf",
+    "downToast": "密码:bi4f",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
@@ -29,11 +29,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.1.0",
-    "vc": 106,
-    "du": "https://skyhand.lanzouf.com/iAOnn0288g0f",
-    "dt": "密码:bam1",
-    "intro": "<br>对比2.0.9更新记录:<br>1. 优化 LivePhoto增加内置内核，优化播放兼容性、加载速度、播放缓存，修正部分旋转了90度。<br>2. 新增 首页可以自定义默认分类(其它设置)<br>3. 优化 图片水印设置改为弹窗式直接选择<br>4. 修复 Play版导入配置时可能会闪退<br>5. 优化 新版博主页信息流可能有广告<br>6. 优化 新版亮度调节滑块的位置<br>7. 修复 获取机型失败<br>8. 优化 部分提示",
+    "vn": "2.1.2",
+    "vc": 116,
+    "du": "https://skyhand.lanzouf.com/iblb90423eqf",
+    "dt": "密码:bi4f",
+    "intro": "<br>对比2.1.1(108)更新记录：<br>1. 新增 真无水印保存图片（非裁剪）<br>2. 新增 真无水印保存评论图片 （非裁剪）<br>3. 修复 模拟位置可能对发表微博无效<br>4. 修复 无法免关注博主看文章<br>5. 修复 无法去除博主页的赞过<br>6. 优化 博主页可能有热推广告<br>7. 优化 多账号切换的处理<br>8. 优化 部分功能Hook逻辑<br>9. 优化 部分图标UI",
     "time": 0
   }
 }
