@@ -1,14 +1,14 @@
 {
   "notice": {
     "alway": false,
-    "title": "新年活动！(只提示一次)",
-    "intro":"大家新年快乐，来个新年小活动 85折优惠券YQPk0RXWE4Ode8bC <a href='copy:YQPk0RXWE4Ode8bC'>点我复制</a>",
+    "title": "猪手通知！！！",
+    "intro":"由于微博更新太快，版本太多，适配工作量过于巨大，所以猪手将在一个月后(6月18日)取消适配12.4.2以前的版本，届时12.4.2以前的版本会提示不适配，请尽快更新到新版的微博，敬请谅解~Respect。<br>ps:历史版本微博可在公众号下载",
     "exit": false,
-    "show": false,
+    "show": true,
     "f": true,
     "url": "",
-    "time": 2,
-    "v": 2
+    "time": 3,
+    "v": 3
   },
   "conf": {
     "showReward": true,
@@ -21,7 +21,7 @@
     "qqGroup": "",
     "rewardUrl": "https://www.kami.vip/purchasing?link=4J8E34",
     "checkUrl": "https://www.kami.vip/order_sel",
-    "mainTip": "请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
+    "mainTip": "将在6月18日取消适配12.4.2以前的微博版本，请尽快更新到新版微博。<br>请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
     "rewardTip": "",
     "oldTip": "如果发现什么bug,请先更新模块到最新版本~",
     "normalTip": ""
