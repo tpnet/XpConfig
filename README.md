@@ -1,39 +1,79 @@
-# SinaHelperData
+# GlideUtils
+Glide图片加载库的封装类
+占位符 不会覆盖CircleImageView，支持直接加载静态图、动态图到View，或者获取Bitmap，Drawable。加载普通图片可以加参数设置占位符和错误图
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+普通加载图片(支持CircleImageView)：
+```
 
-#### 软件架构
-软件架构说明
+GlideUtils.loadImage(url, imageview);
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+//GlideUtils.loadImage(this, url, imageview, null);
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+```
+需要添加占位图和错误图在后面加：
+```
+GlideUtils.loadImage(this, url, imageview, null, R.drawable.default_article_image, R.drawable.default_article_image);
+
+```
+
+加载Gif图片，带监听
+
+```Java
+GlideUtils.loadImageGif(mImageUrl, mImageView, new GlideUtils.ImageLoadListener<String, GifDrawable>() {
+                @Override
+                public void onLoadingComplete(String uri, ImageView view, GifDrawable resource) {
+                    progressBar.setVisibility(View.GONE);
+
+                }
+
+                @Override
+                public void onLoadingError(String source, Exception e) {
+                    LogUtil.e("im查看图片加载失败:"+e);
+                    mEntry.setIsDownload(false);
+                    progressBar.setVisibility(View.GONE);
+                    mFailLayout.setVisibility(View.VISIBLE);
+                }
+            });
+```
+不带监听就设置把监听属性设置我为null;
+
+
+加载静态图片
+```Java
+GlideUtils.loadImage(this, mImageUrl, mImageView, new GlideUtils.ImageLoadListener<String, GlideDrawable>() {
+                        @Override
+                        public void onLoadingComplete(String uri, ImageView view, GlideDrawable resource) {
+                            progressBar.setVisibility(View.GONE);
+                            mEntry.setIsDownload(true);
+                        }
+
+                        @Override
+                        public void onLoadingError(String source, Exception e) {
+                            LogUtil.e("im查看图片加载失败:" +e + "连接:" + source);
+                            mEntry.setIsDownload(false);
+                            progressBar.setVisibility(View.GONE);
+                            mFailLayout.setVisibility(View.VISIBLE);
+                        }
+                    });
+```
+
+
+**重要一点**，在多图片的界面destory之后，在onDestory回调方法调用
+```Java
+   @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        GlideUtils.clearMemory(this);
+        System.gc();
+    }
+
+```
+
+
+
+其他等等
+
+
+
