@@ -13,8 +13,8 @@
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzouf.com/iblb90423eqf",
-    "downToast": "密码:bi4f",
+    "downUrl": "https://skyhand.lanzouf.com/iB21d05kyrfc",
+    "downToast": "密码:2j6v",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
@@ -29,10 +29,10 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.1.2",
-    "vc": 116,
-    "du": "https://skyhand.lanzouf.com/iblb90423eqf",
-    "dt": "密码:bi4f",
+    "vn": "2.1.3",
+    "vc": 124,
+    "du": "https://skyhand.lanzouf.com/iB21d05kyrfc",
+    "dt": "密码:2j6v",
     "intro": "<br>对比2.1.1(108)更新记录：<br>1. 新增 真无水印保存图片（非裁剪）<br>2. 新增 真无水印保存评论图片 （非裁剪）<br>3. 修复 模拟位置可能对发表微博无效<br>4. 修复 无法免关注博主看文章<br>5. 修复 无法去除博主页的赞过<br>6. 优化 博主页可能有热推广告<br>7. 优化 多账号切换的处理<br>8. 优化 部分功能Hook逻辑<br>9. 优化 部分图标UI",
     "time": 0
   }
