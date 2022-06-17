@@ -157,7 +157,7 @@
       ]
     },
     {
-      "key": "其它",
+      "key": "其它机型",
       "list": [
         {
           "name": "魅族17 Pro",
@@ -198,6 +198,59 @@
         {
           "name": "vivo X60Pro+ 蔡司影像",
           "model": "vivo-V2056A"
+        }
+      ]
+    },
+    {
+      "key": "来源",
+      "list": [
+        {
+          "name": "虎牙直播",
+          "model": "3098233954|com.duowan.kiwi"
+        },
+        {
+          "name": "百度网盘",
+          "model": "1003443695|com.baidu.netdisk"
+        },
+        {
+          "name": "联通手机客户端",
+          "model": "2852192270|com.sinovatech.unicom.ui"
+        },
+        {
+          "name": "京东",
+          "model": "3677796771|com.jingdong.app.mall"
+        },
+        {
+          "name": "小米社区",
+          "model": "2414564915|com.xiaomi.vipaccount"
+        },
+        {
+          "name": "高德地图",
+          "model": "884965267|com.autonavi.minimap"
+        },
+        {
+          "name": "知乎",
+          "model": "1081664247|com.zhihu.android"
+        },
+        {
+          "name": "网易云音乐",
+          "model": "301575942|com.netease.cloudmusic"
+        },
+        {
+          "name": "哔哩哔哩",
+          "model": "660369000|tv.danmaku.bili"
+        },
+        {
+          "name": "IT之家",
+          "model": "3030542369|com.ruanmei.ithome"
+        },
+        {
+          "name": "酷安",
+          "model": "123216742|com.coolapk.market"
+        },
+        {
+          "name": "小红书_RED",
+          "model": "608714079|com.xingin.xhs"
         }
       ]
     }
