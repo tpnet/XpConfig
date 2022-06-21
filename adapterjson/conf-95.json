@@ -4,7 +4,7 @@
     "title": "猪手通知！！！",
     "intro":"由于微博更新太快，版本太多，适配工作量过于巨大，所以猪手将在一个月后(6月18日)取消适配12.4.2以前的版本，届时12.4.2以前的版本会提示不适配，请尽快更新到新版的微博，敬请谅解~Respect。<br>ps:历史版本微博可在公众号下载",
     "exit": false,
-    "show": true,
+    "show": false,
     "f": true,
     "url": "",
     "time": 3,
@@ -13,15 +13,15 @@
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzouf.com/iB21d05kyrfc",
-    "downToast": "密码:2j6v",
+    "downUrl": "https://skyhand.lanzouf.com/iMinF06pbikb",
+    "downToast": "密码:edbd",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
     "qqGroup": "",
     "rewardUrl": "https://www.kami.vip/purchasing?link=4J8E34",
     "checkUrl": "https://www.kami.vip/order_sel",
-    "mainTip": "将在6月18日取消适配12.4.2以前的微博版本，请尽快更新到新版微博。<br>请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
+    "mainTip": "<br>请关注公众号: <a href='copy:Skyhand的猪手圈'>Skyhand的猪手圈</a> 获取最新信息~",
     "rewardTip": "",
     "oldTip": "如果发现什么bug,请先更新模块到最新版本~",
     "normalTip": ""
@@ -29,11 +29,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.1.3",
-    "vc": 124,
-    "du": "https://skyhand.lanzouf.com/iB21d05kyrfc",
-    "dt": "密码:2j6v",
-    "intro": "对比v2.1.2(116)更新记录：<br><br>1. 新增 真·去水印视频下载<br>2. 优化 应用转生可能报错的问题<br>3. 优化 对虚拟机低版本安卓的支持<br>4. 优化 修改dpi导致UI显示异常<br>5. 修复 新版微博无法去除大家在搜<br>6. 优化 低端机在太极转生的体验<br>7. 优化 对新版微博的适配<br>8. 优化 发现页轮播广告净化",
+    "vn": "2.1.4",
+    "vc": 130,
+    "du": "https://skyhand.lanzouf.com/iMinF06pbikb",
+    "dt": "密码:edbd",
+    "intro": "对比2.1.3(124)更新记录:<br>1. 新增 可自定义添加预设机型,带检测机制<br>2. 新增 机型增加来源方式、鸿蒙和微博客户端<br>3. 新增 去除发现页 实况文娱热和热门超话<br>4. 新增 移除消息动态页里的广告<br>5. 优化 保存图片前先检查存储权限<br>6. 优化 视频下载中可按返回取消下载<br>7. 修复 博主页优化 把置顶给去掉了<br>8. 修复 博主页可能没有净化到<br>9. 修复 快捷删微博失效",
     "time": 0
   }
 }
