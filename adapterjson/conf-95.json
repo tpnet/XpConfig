@@ -27,6 +27,14 @@
     "oldTip": "如果发现什么bug,请先更新模块到最新版本~",
     "normalTip": ""
   },
+  "dc": {
+    "bc": [0,1],
+    "ac": [2,3,4],
+    "sid": [
+      "d635a331974324c184942226b4858cdf",
+      "a98a10d3e721c9d34d20a9b0d42ec858"
+    ]
+  },
   "appText": "",
   "update": {
     "f": false,
