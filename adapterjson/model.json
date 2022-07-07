@@ -61,6 +61,14 @@
       "key": "小米",
       "list": [
         {
+          "name": "小米12S Ultra",
+          "model": "Xiaomi-thor"
+        },
+        {
+          "name": "小米12S Pro",
+          "model": "Xiaomi-unicorn"
+        },
+        {
           "name": "小米Mix4",
           "model": "Xiaomi-MIX 4"
         },
@@ -139,6 +147,10 @@
       "key": "一加",
       "list": [
         {
+          "name": "一加10 Pro",
+          "model": "OnePlus-NE2210"
+        },
+        {
           "name": "一加9Pro 哈苏影像",
           "model": "OnePlus-LE2120"
         },
@@ -168,8 +180,8 @@
           "model": "meizu-16s Pro"
         },
         {
-          "name": "三星S21 Ultra",
-          "model": "samsung-SM-G9980"
+          "name": "三星S22 Ultra",
+          "model": "samsung-SM-S9080"
         },
         {
           "name": "三星Note20 Ultra",
@@ -178,10 +190,6 @@
         {
           "name": "三星S20 Plus",
           "model": "samsung-SM-G9860"
-        },
-        {
-          "name": "三星s10",
-          "model": "samsung-SM-G977N"
         },
         {
           "name": "摩托罗拉 edge s",
@@ -213,7 +221,7 @@
           "model": "1003443695|com.baidu.netdisk"
         },
         {
-          "name": "联通手机客户端",
+          "name": "联通",
           "model": "2852192270|com.sinovatech.unicom.ui"
         },
         {
@@ -249,7 +257,7 @@
           "model": "123216742|com.coolapk.market"
         },
         {
-          "name": "小红书_RED",
+          "name": "小红书",
           "model": "608714079|com.xingin.xhs"
         }
       ]
