@@ -13,8 +13,8 @@
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzouf.com/iMinF06pbikb",
-    "downToast": "密码:edbd",
+    "downUrl": "https://skyhand.lanzouf.com/iy1ia07km3qj",
+    "downToast": "密码:5bhk",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
@@ -38,11 +38,11 @@
   "appText": "",
   "update": {
     "f": false,
-    "vn": "2.1.4",
-    "vc": 130,
-    "du": "https://skyhand.lanzouf.com/iMinF06pbikb",
-    "dt": "密码:edbd",
-    "intro": "对比2.1.3(124)更新记录:<br>1. 新增 可自定义添加预设机型,带检测机制<br>2. 新增 机型增加来源方式、鸿蒙和微博客户端<br>3. 新增 去除发现页 实况文娱热和热门超话<br>4. 新增 移除消息动态页里的广告<br>5. 优化 保存图片前先检查存储权限<br>6. 优化 视频下载中可按返回取消下载<br>7. 修复 博主页优化 把置顶给去掉了<br>8. 修复 博主页可能没有净化到<br>9. 修复 快捷删微博失效",
-    "time": 0
+    "vn": "2.1.5",
+    "vc": 142,
+    "du": "https://skyhand.lanzouf.com/iy1ia07km3qj",
+    "dt": "密码:5bhk",
+    "intro": "对比2.1.4(130)更新记录:<br>1. 新增 可选择设置18个桌面图标(其他设置)<br>2. 新增 悄悄关注列表(长按可取消)<br>3. 优化 悄悄关注可一键完成操作<br>4. 优化 自定义来源机型支持转发<br>5. 优化 真去水印视频下载逻辑<br>6. 新增 热搜页可设置默认分类(其他设置)<br>7. 新增 可去除搜索结果的实况讨论<br>8. 修复 免关注看文章功能可能失效<br>9. 修复 可能无法去除关注信息流广告<br>10. 修复 评论回复界面可能显示异常 <br>11. 移除 新版增加的我的页面vip提示<br>12. 修复 下载大视频可能合并失败",
+    "time": 3
   }
 }
