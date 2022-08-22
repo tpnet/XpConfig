@@ -37,6 +37,7 @@
     ]
   },
   "appText": "",
+  "showMp": true,
   "update": {
     "f": false,
     "vn": "2.1.5",
