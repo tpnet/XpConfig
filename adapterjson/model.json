@@ -4,6 +4,22 @@
       "key": "苹果",
       "list": [
         {
+          "name": "iPhone14 Pro Max",
+          "model": "iPhone15,3"
+        },
+        {
+          "name": "iPhone14 Pro",
+          "model": "iPhone15,2"
+        },
+        {
+          "name": "iPhone14 Plus",
+          "model": "iPhone14,8"
+        },
+        {
+          "name": "iPhone14",
+          "model": "iPhone14,7"
+        },
+        {
           "name": "iPhone13 Pro Max",
           "model": "iPhone14,3"
         },
@@ -114,6 +130,14 @@
       "key": "华为",
       "list": [
         {
+          "name": "华为Mate50 Pro",
+          "model": "HUAWEI-DCO-AL00"
+        },
+        {
+          "name": "华为Mate50",
+          "model": "HUAWEI-CET-AL00"
+        },
+        {
           "name": "华为P50 Pro",
           "model": "HUAWEI-JAD-AL50"
         },
@@ -147,6 +171,10 @@
       "key": "一加",
       "list": [
         {
+          "name": "一加Ace Pro",
+          "model": "OnePlus-PGP110"
+        },
+        {
           "name": "一加10 Pro",
           "model": "OnePlus-NE2210"
         },
@@ -171,6 +199,30 @@
     {
       "key": "其它机型",
       "list": [
+        {
+          "name": "Oppo Find X5 Pro",
+          "model": "OPPO-PFFM10"
+        },
+        {
+          "name": "Oppo Find X5 Pro天玑版",
+          "model": "OPPO-PFFM20"
+        },
+        {
+          "name": "Oppo Find N 5G",
+          "model": "OPPO-PEUM00"
+        },
+        {
+          "name": "vivo X80 Pro",
+          "model": "vivo-V2185A"
+        },
+        {
+          "name": "vivo X Fold",
+          "model": "vivo-V2178A"
+        },
+        {
+          "name": "IQOO 10 Pro 赛道传奇",
+          "model": "vivo-V2218A"
+        },
         {
           "name": "魅族17 Pro",
           "model": "meizu-meizu 17 Pro"
