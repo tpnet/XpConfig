@@ -13,8 +13,8 @@
   "conf": {
     "showReward": true,
     "rewardOpen": true,
-    "downUrl": "https://skyhand.lanzouy.com/iwi2J0bv128j",
-    "downToast": "密码:4frg",
+    "downUrl": "https://skyhand.lanzouy.com/ieQJO0dkboqf",
+    "downToast": "密码:8p6i",
     "payUsedUrl": "https://shimo.im/docs/AVuNeTgHDrQJRDos/",
     "usedUrl": "https://shimo.im/docs/08CuIcUf6IUrj2Y4/",
     "updateRecord": "https://shimo.im/docs/p3TJHgdCwddgYcp3/",
@@ -41,11 +41,11 @@
   "showMp": true,
   "update": {
     "f": false,
-    "vn": "2.1.7",
-    "vc": 163,
-    "du": "https://skyhand.lanzouy.com/iwi2J0bv128j",
-    "dt": "密码:4frg",
-    "intro": "对比2.1.6(154)更新记录:<br>1. 新增 单张/全部 原图去水印下载保存<br>2. 新增 单张图片原图下载保存<br>3. 优化 保存图片按钮可自定义收纳<br>4.  新增 去除新版微博的评论气泡<br>5. 优化 LivePhoto可在浏览时切换为图片<br>6. 优化 LivePhoto可播放声音<br>7. 新增 新版微博6个桌面图标<br>8. 新增 可去除发现页动态新增的分类<br>9. 优化 不去除首页信息流顶部功能块<br>10. 修复 模拟位置作用于首页和发现页失效<br>11. 优化 过滤屏蔽支持实时热搜信息流微博<br>12. 新增 可去除实时热搜的最后评论/点赞/转发/转赞<br>13. 优化 搜索结果实时信息流的广告无法去除<br>14. 修复 可能出现闪退或者不生效的问题<br>15. 优化 超话信息流过滤可能不完全",
+    "vn": "2.1.8",
+    "vc": 176,
+    "du": "https://skyhand.lanzouy.com/ieQJO0dkboqf",
+    "dt": "密码:8p6i",
+    "intro": "对比v2.1.7 (163)更新记录:<br><br>1. 新增全自动批量群组签到<br>2. 新增博主主页浏览历史记录<br>3. 新增短微博浏览历史记录<br>4. 新增评论展开浏览历史记录<br>5. 优化实时热聊热搜去广告和过滤<br>6. 优化原图下载导致文件变大<br>7. 优化水印设置移动到发表微博页<br>8. 修复热搜默认选择分类失效<br>9. 优化去除网页文章内的广告卡片<br>10. 优化评论排序方式支持子评论列表<br>11. 优化超话签到时候切换账号的情况<br>12. 移除护眼亮度调节(官方已移除护眼模式)",
     "time": 3
   }
 }
