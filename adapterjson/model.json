@@ -200,6 +200,14 @@
       "key": "其它机型",
       "list": [
         {
+          "name": "魅族 20 Pro",
+          "model": "meizu-MEIZU 20 Pro"
+        },
+        {
+          "name": "魅族 20",
+          "model": "meizu-MEIZU 20"
+        },
+        {
           "name": "Oppo Find X5 Pro",
           "model": "OPPO-PFFM10"
         },
