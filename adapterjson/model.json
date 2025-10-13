@@ -4,24 +4,20 @@
       "key": "苹果",
       "list": [
         {
-          "name": "iPhone15 Pro Max",
-          "model": "iPhone17,2"
+          "name": "iPhone17 Pro Max",
+          "model": "iPhone18,2"
         },
         {
-          "name": "iPhone15 Pro",
-          "model": "iPhone17,1"
+          "name": "iPhone17 Pro",
+          "model": "iPhone18,1"
         },
         {
-          "name": "iPhone15 Plus",
+          "name": "iPhone17",
+          "model": "iPhone18,3"
+        },
+        {
+          "name": "iPhone 16 Plus",
           "model": "iPhone17,4"
-        },
-        {
-          "name": "iPhone15",
-          "model": "iPhone17,3"
-        },
-        {
-          "name": "iPhone 16e",
-          "model": "iPhone17,5"
         },
         {
           "name": "iPhone13 mini",
@@ -63,6 +59,18 @@
         {
           "name": "小米MIX Fold 4",
           "model": "Xiaomi-Xiaomi MIX Fold 4"
+        },
+        {
+          "name": "小米17 Pro Max",
+          "model": "Xiaomi-Xiaomi 17 Pro Max"
+        },
+        {
+          "name": "小米17 Pro",
+          "model": "Xiaomi-Xiaomi 17 Pro"
+        },
+        {
+          "name": "小米17",
+          "model": "Xiaomi-Xiaomi 17"
         },
         {
           "name": "小米15 Ultra",
